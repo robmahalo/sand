@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>992078357895-nl0b2fm1ddftvbbnsgmmq3aq6ej2r568.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.992078357895-nl0b2fm1ddftvbbnsgmmq3aq6ej2r568</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkE0XbmxO8mxvhWEXqkobaq72uKbaFyR8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>992078357895</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>csci321.sandy</string>
+	<key>PROJECT_ID</key>
+	<string>sand-983a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sand-983a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:992078357895:ios:5d92e11d5c0ceced4b1f22</string>
+	<key>DATABASE_URL</key>
+	<string>https://sand-983a5.firebaseio.com</string>
+</dict>
+</plist>
